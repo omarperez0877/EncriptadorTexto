@@ -1,5 +1,10 @@
 <h1 align="center"> Encriptador de texto </h1>
-<em> Alura Challenge 2024 - 1 </em>
+<em align="center"> Alura Challenge 2024 - 1 </em>
+
+##Índice
+
+#Descripción del proyecto
+
 
 Las "llaves" de encriptación que utilizaremos son las siguientes:
 
